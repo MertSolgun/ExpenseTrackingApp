@@ -2,6 +2,12 @@ main {
   max-width: 800px;
 }
 
+label {
+  color: #ffc107;
+}
+td {
+  font-weight: bold;
+}
 body {
   background-image: linear-gradient(
     111.4deg,
